@@ -1,0 +1,20 @@
+Tamarin:
+
+    Simplify commercial process, from propoposal to invoice creation.
+
+    Technical stack:
+
+        - Frontend: Reactjs with:
+
+            - Vitejs.
+            - Chakra UI.
+            - React Query (tanstack).
+            - React Router.
+            - Jestjs.
+
+        - Backend: (Docker for database)
+            - Server : Express
+            - Database : Mariadb
+            - ORM : Sequelize
+
+            

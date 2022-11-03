@@ -1,0 +1,23 @@
+Tamarin:
+
+    Simplify commercial process, from propoposal to invoice.
+
+    Versions:
+
+        v0.0.0:
+
+            Features:
+
+                - User can connect to the platform and access his workspace.
+                - User can Add/Configure products.
+                - User can Add/Configure Thirdparties.
+                - User can Create/Configure Proposals:
+
+                    Details:
+                        - Proposals can be signed electronically using Docage service.
+                        - Proposals can be transformed to invoice in one click.
+
+                - User can Create/Configure Invoices.
+                - User documents will be stored using Google Drive service.
+                        
+            
